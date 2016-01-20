@@ -3,8 +3,11 @@
 This a semi curated list of sites and apps I like.
 
 * [is fox working](http://www.isfoxworking.com/)
+
 * [twitch.tv](http://www.twitch.tv/)
+
 * [medium](http://medium.com)
+* [discord](http://discordapp.com)
 
 :poop: *Have a nice day.*
 
